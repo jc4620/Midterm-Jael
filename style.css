@@ -1,0 +1,40 @@
+.Improve_Communication_Skills {
+  background-image: url('img/Improve_Communication_Skills.jpg');
+  background-position: center center;
+  background-size: cover;
+  height:1000px;
+  width:auto;
+  text-align: center;
+  color:red
+}
+
+h1 {
+font-family: Arial, sans-serif;
+font-size: 70px;
+color: black;
+}
+h2 {
+  font-family: Arial, sans-serif;
+  font-size: 40px;
+  color: red;
+}
+body {
+  background-color:orange
+  }
+p{font-family:helvetica;
+font-size: 40px;
+}
+
+.video{
+  position:relative;;
+  float: right;
+}
+
+.col-md-8 li{
+  line-height: 4em;
+}
+img {
+  width:100px;
+  height:100px;
+  background: url(http://goo.gl/vyAs27) no-repeat scroll 0 0;
+}
